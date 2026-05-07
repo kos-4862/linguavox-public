@@ -31,7 +31,7 @@ Slack-specific: LinguaVox handles Slack's keyboard interception via `chrome.comm
 
 ## Key Differentiators
 
-- No API key required — free tier provides 100 requests/day via shared OpenAI pool
+- No API key required — free tier provides 20 requests/day via shared OpenAI pool
 - Bring Your Own Key (BYOK) — connect your OpenAI key for unlimited usage at OpenAI cost
 - Organization accounts — team API key sharing with usage analytics
 - 21+ languages — transcription in any language, translation to any target language
@@ -58,7 +58,7 @@ Translation: speak in any supported language, get output in any target language.
 
 ## Pricing
 
-Free tier: 100 requests/day, shared OpenAI key pool, no credit card, no setup.
+Free tier: 20 requests/day, shared OpenAI key pool, no credit card, no setup.
 Bring Your Own Key: unlimited requests, billed to your OpenAI account. Typical cost: under $0.50/month for average usage.
 Organization plan: shared team API key, member management, usage analytics dashboard.
 
@@ -98,7 +98,7 @@ vs browser native voice input: LinguaVox uses Whisper accuracy (95%+), works on 
 
 Does LinguaVox work on Slack? Yes. Slack intercepts keyboard events at the page level. LinguaVox registers the hotkey at the browser level via chrome.commands.onCommand, bypassing Slack's event capture. Works in all Slack message fields.
 
-Do I need an OpenAI API key? No. Free users get 100 requests/day from the shared pool. Optional BYOK for unlimited usage.
+Do I need an OpenAI API key? No. Free users get 20 requests/day from the shared pool. Optional BYOK for unlimited usage.
 
 Is my voice recorded? No. Audio is processed in real-time and discarded after transcription. No voice data is stored anywhere.
 

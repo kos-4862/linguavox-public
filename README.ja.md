@@ -18,7 +18,7 @@
   <a href="https://linguavox-landing.pages.dev"><img src="https://img.shields.io/badge/ウェブサイト-linguavox-brightgreen" alt="ウェブサイト" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/TODO"><img src="https://img.shields.io/badge/Chrome%20ウェブストア-無料インストール-blue?logo=googlechrome" alt="Chrome ウェブストア" /></a>
   <a href="https://linguavox-landing.pages.dev/dashboard/"><img src="https://img.shields.io/badge/ダッシュボード-開く-orange" alt="ダッシュボード" /></a>
-  <img src="https://img.shields.io/badge/バージョン-2.9-green" alt="バージョン" />
+  <img src="https://img.shields.io/badge/バージョン-2.8-green" alt="バージョン" />
 </p>
 
 ---

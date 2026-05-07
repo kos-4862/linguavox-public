@@ -18,7 +18,7 @@
   <a href="https://linguavox-landing.pages.dev"><img src="https://img.shields.io/badge/网站-linguavox-brightgreen" alt="网站" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/TODO"><img src="https://img.shields.io/badge/Chrome%20应用商店-免费安装-blue?logo=googlechrome" alt="Chrome应用商店" /></a>
   <a href="https://linguavox-landing.pages.dev/dashboard/"><img src="https://img.shields.io/badge/控制台-打开-orange" alt="控制台" /></a>
-  <img src="https://img.shields.io/badge/版本-2.9-green" alt="版本" />
+  <img src="https://img.shields.io/badge/版本-2.8-green" alt="版本" />
 </p>
 
 ---

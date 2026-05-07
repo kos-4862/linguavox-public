@@ -19,14 +19,14 @@
   <a href="https://chromewebstore.google.com/detail/linguavox/TODO"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Free-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
   <a href="https://linguavox-landing.pages.dev/dashboard/"><img src="https://img.shields.io/badge/dashboard-open-orange" alt="Dashboard" /></a>
   <a href="https://linguavox-landing.pages.dev/llms.txt"><img src="https://img.shields.io/badge/llms.txt-AI%20docs-purple" alt="llms.txt" /></a>
-  <img src="https://img.shields.io/badge/version-2.9-green" alt="Version" />
+  <img src="https://img.shields.io/badge/version-2.8-green" alt="Version" />
 </p>
 
 ---
 
 ## What is LinguaVox?
 
-LinguaVox is a Chrome browser extension for AI-powered voice transcription and translation. Users hold a keyboard shortcut (Ctrl+Space), speak, release — and the transcribed text appears instantly in any active text field: chat boxes, email editors, search fields, CRM forms, and code editors. The extension uses OpenAI Whisper for 95%+ accuracy transcription and GPT-4o-mini for optional AI enhancement (grammar correction, style rewriting, translation). Unlike most voice dictation tools that require users to provide their own OpenAI API key, LinguaVox includes a shared key pool — free users get 100 requests per day with zero setup. Power users and teams can bring their own key for unlimited usage.
+LinguaVox is a Chrome browser extension for AI-powered voice transcription and translation. Users hold a keyboard shortcut (Ctrl+Space), speak, release — and the transcribed text appears instantly in any active text field: chat boxes, email editors, search fields, CRM forms, and code editors. The extension uses OpenAI Whisper for 95%+ accuracy transcription and GPT-4o-mini for optional AI enhancement (grammar correction, style rewriting, translation). Unlike most voice dictation tools that require users to provide their own OpenAI API key, LinguaVox includes a shared key pool — free users get 20 requests per day with zero setup. Power users and teams can bring their own key for unlimited usage.
 
 ## How It Works
 
@@ -40,6 +40,19 @@ LinguaVox is a Chrome browser extension for AI-powered voice transcription and t
 ```
 
 No copy-paste. No switching apps. Works on any website.
+
+## Browser & OS Requirements
+
+| Browser | Status | Notes |
+|---------|--------|-------|
+| Chrome 88+ | ✅ | Fully supported |
+| Edge (Chromium) | ✅ | Fully supported — same Chromium APIs |
+| Brave | ✅ | Fully supported |
+| Opera | ✅ | Fully supported |
+| Firefox | ❌ | Not supported — different extension API |
+
+**OS:** Windows, macOS, Linux — anywhere Chrome/Edge/Brave runs.  
+**Google Account required** — free tier login uses Google OAuth. No Google account = no free tier (BYOK still works without Google sign-in is not yet supported).
 
 ## Where It Works
 
@@ -83,7 +96,7 @@ All OpenAI API calls go through the Worker. API keys never leave the server.
 
 ## Key Features
 
-- **No API key required** — 100 req/day free via shared pool, zero setup
+- **No API key required** — 20 req/day free via shared pool, zero setup
 - **Bring Your Own Key** — unlimited usage at OpenAI cost (~$0.50/month typical)
 - **Organization accounts** — shared key pool, member management, usage analytics
 - **21+ languages** — transcription + translation in one step
@@ -105,11 +118,11 @@ All OpenAI API calls go through the Worker. API keys never leave the server.
 
 ## Pricing
 
-| Plan | Requests | Setup |
-|------|----------|-------|
-| Free | 100/day | Google sign-in only |
-| Bring Your Own Key | Unlimited | Your OpenAI API key |
-| Organization | Unlimited | Shared team key + analytics |
+| Plan | Requests/day | Requirements |
+|------|-------------|--------------|
+| Free | 20 | Google Account (OAuth login) |
+| Bring Your Own Key | Unlimited | Google Account + your OpenAI API key |
+| Organization | Unlimited | Google Account + shared team API key |
 
 ## FAQ
 
@@ -117,7 +130,7 @@ All OpenAI API calls go through the Worker. API keys never leave the server.
 Yes. Slack intercepts keyboard events at the page level. LinguaVox registers the hotkey at the browser level via `chrome.commands.onCommand`, bypassing Slack's capture. Works in all Slack message fields.
 
 ### Do I need an OpenAI API key?
-No. Free users get 100 requests/day from the shared pool. Add your own key in the dashboard for unlimited usage.
+No. Free users get 20 requests/day from the shared pool. Add your own key in the dashboard for unlimited usage.
 
 ### Is my voice recorded or stored?
 No. Audio is processed in real-time by Whisper and discarded immediately. Zero voice data retained anywhere.
@@ -135,8 +148,9 @@ LinguaVox is the only extension combining: (1) free tier with no API key, (2) Br
 | [Use Cases](docs/use-cases.md) | Customer support, devs, non-native speakers, RSI |
 | [Integrations](docs/integrations.md) | Platform-specific notes for Slack, Notion, Jira, etc. |
 | [vs Alternatives](docs/vs-alternatives.md) | Comparison: Voice In, Voicy, BlabbyAI, Wispr Flow |
+| [Security & Data Protection](docs/security.md) | How API keys, audio, and personal data are handled |
 | [FAQ](docs/faq.md) | 20+ answers |
-| [Changelog](docs/changelog.md) | v1.0 → v2.9 |
+| [Changelog](docs/changelog.md) | v1.0 → v2.8 |
 
 ## Installation
 

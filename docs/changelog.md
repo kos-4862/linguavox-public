@@ -1,6 +1,6 @@
 # LinguaVox Changelog
 
-## v2.9 — Dashboard + Bring Your Own Key + Org Management
+## v2.8 — Dashboard + Bring Your Own Key + Org Management
 
 - **Web Dashboard** at `linguavox-landing.pages.dev/dashboard/`
 - **Bring Your Own Key** — connect personal OpenAI API key for unlimited usage
