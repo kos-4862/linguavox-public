@@ -20,5 +20,6 @@ jobs:
             --no-progress
             --exclude 'chromewebstore.google.com/detail/linguavox/TODO'
             --exclude 'shields.io'
+            --exclude 'openai.com'
             '**/*.md'
           fail: true
