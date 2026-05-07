@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://linguavox-landing.pages.dev/store-screenshots/marquee-1400x560.png" width="800" alt="LinguaVox — Голосовий диктант для Chrome з ШІ" />
+  <img src="https://raw.githubusercontent.com/kos-4862/linguavox-public/main/images/banner.png" width="800" alt="LinguaVox — Голосовий диктант для Chrome з ШІ" />
 </p>
 
 <h3 align="center">LinguaVox — Голосовий диктант для Chrome з ШІ</h3>

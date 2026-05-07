@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://linguavox-landing.pages.dev/store-screenshots/marquee-1400x560.png" width="800" alt="LinguaVox — Голосовой диктант для Chrome с ИИ" />
+  <img src="https://raw.githubusercontent.com/kos-4862/linguavox-public/main/images/banner.png" width="800" alt="LinguaVox — Голосовой диктант для Chrome с ИИ" />
 </p>
 
 <h3 align="center">LinguaVox — Голосовой диктант для Chrome с ИИ</h3>
