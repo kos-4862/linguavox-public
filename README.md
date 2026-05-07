@@ -68,29 +68,6 @@ No copy-paste. No switching apps. Works on any website.
 | Any `contenteditable` | ✅ | React, Draft.js, Quill compatible |
 | Google Docs | ⚠️ | Limited — custom canvas editor |
 
-## Architecture
-
-```
- Chrome Extension (MV3)
- ┌──────────────────────────────┐
- │ content.js  — keyboard + UI  │
- │ background.js — orchestration│
- │ popup.js    — settings/auth  │
- └──────────┬───────────────────┘
-            │ HTTPS + JWT Bearer
-            ▼
- Cloudflare Worker (global edge)
- ┌──────────────────────────────┐
- │ /api/transcribe → Whisper    │
- │ /api/enhance   → GPT-4o-mini │
- │ /api/translate → GPT-4o-mini │
- │ /api/auth      → Google OAuth│
- └──────────┬───────────────────┘
-            │
-            ▼
- Cloudflare KV
- └─ users · usage counters · orgs
-```
 
 All OpenAI API calls go through the Worker. API keys never leave the server.
 
