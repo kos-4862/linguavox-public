@@ -22,7 +22,7 @@ Only the Cloudflare Worker — running on Cloudflare's infrastructure — reads 
 
 ### What if I want to remove it?
 
-Go to [Dashboard → API Key](https://linguavox-dashboard.pages.dev/apikey) → click "Remove key". The key is deleted from Cloudflare KV immediately.
+Go to [Dashboard → API Key](https://linguavox-landing.pages.dev/dashboard/apikey) → click "Remove key". The key is deleted from Cloudflare KV immediately.
 
 ---
 

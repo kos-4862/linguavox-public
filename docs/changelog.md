@@ -2,7 +2,7 @@
 
 ## v2.8 — Dashboard + Bring Your Own Key + Org Management
 
-- **Web Dashboard** at `linguavox-dashboard.pages.dev`
+- **Web Dashboard** at `linguavox-landing.pages.dev/dashboard/`
 - **Bring Your Own Key** — connect personal OpenAI API key for unlimited usage
 - **Organization accounts** — create a team, share API key pool, view member usage analytics
 - **Org management** — invite/remove members, owner-level access control

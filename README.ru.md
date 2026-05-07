@@ -17,7 +17,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Лицензия" /></a>
   <a href="https://linguavox-landing.pages.dev"><img src="https://img.shields.io/badge/сайт-linguavox-brightgreen" alt="Сайт" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/TODO"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Установить-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
-  <a href="https://linguavox-dashboard.pages.dev/"><img src="https://img.shields.io/badge/дашборд-открыть-orange" alt="Дашборд" /></a>
+  <a href="https://linguavox-landing.pages.dev/dashboard/"><img src="https://img.shields.io/badge/дашборд-открыть-orange" alt="Дашборд" /></a>
   <img src="https://img.shields.io/badge/версия-2.8-green" alt="Версия" />
 </p>
 
@@ -121,7 +121,7 @@ LinguaVox — расширение Chrome для голосового дикта
 | | |
 |--|--|
 | 🌐 Сайт | https://linguavox-landing.pages.dev |
-| 📊 Дашборд | https://linguavox-dashboard.pages.dev/ |
+| 📊 Дашборд | https://linguavox-landing.pages.dev/dashboard/ |
 | 🔒 Политика конфиденциальности | https://linguavox-landing.pages.dev/privacy/ |
 | 💬 Поддержка | https://linguavox-landing.pages.dev/support/ |
 
