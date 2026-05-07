@@ -46,9 +46,9 @@ No copy-paste. No switching apps. Works on any website.
 | Browser | Status | Notes |
 |---------|--------|-------|
 | Chrome 88+ | ✅ | Fully supported |
-| Edge (Chromium) | ✅ | Fully supported — same Chromium APIs |
-| Brave | ✅ | Fully supported |
-| Opera | ✅ | Fully supported |
+| Edge (Chromium) | ✅ | Should work — same Chromium APIs, not officially tested |
+| Brave | ✅ | Should work — not officially tested |
+| Opera | ✅ | Should work — not officially tested |
 | Firefox | ❌ | Not supported — different extension API |
 
 **OS:** Windows, macOS, Linux — anywhere Chrome/Edge/Brave runs.  
