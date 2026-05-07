@@ -113,4 +113,4 @@ Dashboard: https://linguavox-landing.pages.dev/dashboard/
 Privacy Policy: https://linguavox-landing.pages.dev/privacy/
 Support: https://linguavox-landing.pages.dev/support/
 Full documentation: https://linguavox-landing.pages.dev/llms-full.txt
-GitHub: https://github.com/kos-4862/LinguaVox
+GitHub: https://github.com/kos-4862/linguavox-public

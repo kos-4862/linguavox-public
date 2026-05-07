@@ -108,7 +108,7 @@ LinguaVox uses the following insertion methods in priority order:
 
 ## Requesting Platform Support
 
-If LinguaVox doesn't work on a platform you need, open an issue at https://github.com/kos-4862/LinguaVox/issues with:
+If LinguaVox doesn't work on a platform you need, open an issue at https://github.com/kos-4862/linguavox-public/issues with:
 - The platform name and URL
 - Which field doesn't work
 - Browser version and OS
