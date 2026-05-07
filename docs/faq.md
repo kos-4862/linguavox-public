@@ -10,7 +10,7 @@ Visit the Chrome Web Store and click "Add to Chrome." After installation, click 
 
 ### Do I need an OpenAI API key to use LinguaVox?
 
-No. Free users get 20 requests per day via LinguaVox's shared OpenAI key pool — no OpenAI account needed. If you need unlimited usage, add your own OpenAI API key in the [dashboard](https://linguavox-landing.pages.dev/dashboard/apikey).
+No. Free users get 20 requests per day via LinguaVox's shared OpenAI key pool — no OpenAI account needed. If you need unlimited usage, add your own OpenAI API key in the [dashboard](https://linguavox-dashboard.pages.dev/apikey).
 
 ### How do I start recording?
 

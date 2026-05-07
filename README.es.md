@@ -17,7 +17,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-blue.svg" alt="Licencia" /></a>
   <a href="https://linguavox-landing.pages.dev"><img src="https://img.shields.io/badge/web-linguavox-brightgreen" alt="Sitio web" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/TODO"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Instalar%20gratis-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
-  <a href="https://linguavox-landing.pages.dev/dashboard/"><img src="https://img.shields.io/badge/panel-abrir-orange" alt="Panel" /></a>
+  <a href="https://linguavox-dashboard.pages.dev/"><img src="https://img.shields.io/badge/panel-abrir-orange" alt="Panel" /></a>
   <img src="https://img.shields.io/badge/versión-2.8-green" alt="Versión" />
 </p>
 
@@ -105,7 +105,7 @@ No. El audio es procesado por Whisper en tiempo real y descartado inmediatamente
 | | |
 |--|--|
 | 🌐 Sitio web | https://linguavox-landing.pages.dev |
-| 📊 Panel | https://linguavox-landing.pages.dev/dashboard/ |
+| 📊 Panel | https://linguavox-dashboard.pages.dev/ |
 | 🔒 Política de privacidad | https://linguavox-landing.pages.dev/privacy/ |
 | 💬 Soporte | https://linguavox-landing.pages.dev/support/ |
 

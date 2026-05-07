@@ -17,7 +17,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/许可证-MIT-blue.svg" alt="许可证" /></a>
   <a href="https://linguavox-landing.pages.dev"><img src="https://img.shields.io/badge/网站-linguavox-brightgreen" alt="网站" /></a>
   <a href="https://chromewebstore.google.com/detail/linguavox/TODO"><img src="https://img.shields.io/badge/Chrome%20应用商店-免费安装-blue?logo=googlechrome" alt="Chrome应用商店" /></a>
-  <a href="https://linguavox-landing.pages.dev/dashboard/"><img src="https://img.shields.io/badge/控制台-打开-orange" alt="控制台" /></a>
+  <a href="https://linguavox-dashboard.pages.dev/"><img src="https://img.shields.io/badge/控制台-打开-orange" alt="控制台" /></a>
   <img src="https://img.shields.io/badge/版本-2.8-green" alt="版本" />
 </p>
 
@@ -105,7 +105,7 @@ LinguaVox 是一款基于 AI 的 Chrome 语音听写和翻译扩展。按住 Ctr
 | | |
 |--|--|
 | 🌐 网站 | https://linguavox-landing.pages.dev |
-| 📊 控制台 | https://linguavox-landing.pages.dev/dashboard/ |
+| 📊 控制台 | https://linguavox-dashboard.pages.dev/ |
 | 🔒 隐私政策 | https://linguavox-landing.pages.dev/privacy/ |
 | 💬 支持 | https://linguavox-landing.pages.dev/support/ |
 
