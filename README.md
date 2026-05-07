@@ -115,16 +115,12 @@ No. Audio is processed in real-time by Whisper and discarded immediately. Zero v
 ### What languages are supported?
 21+ languages: English, Ukrainian, Russian, Spanish, French, German, Japanese, Korean, Chinese, Arabic, Portuguese, Italian, Polish, Dutch, Turkish, Swedish, Romanian, Greek, Tagalog, Urdu, Punjabi, and more.
 
-### How is LinguaVox different from Voice In, Voicy, or BlabbyAI?
-LinguaVox is the only extension combining: (1) free tier with no API key, (2) Bring Your Own Key, (3) 6 AI enhancement modes, (4) translation across 21+ languages, and (5) team/org accounts. See [full comparison →](docs/vs-alternatives.md)
-
 ## Documentation
 
 | Resource | Description |
 |----------|-------------|
 | [Use Cases](docs/use-cases.md) | Customer support, devs, non-native speakers, RSI |
 | [Integrations](docs/integrations.md) | Platform-specific notes for Slack, Notion, Jira, etc. |
-| [vs Alternatives](docs/vs-alternatives.md) | Comparison: Voice In, Voicy, BlabbyAI, Wispr Flow |
 | [Security & Data Protection](docs/security.md) | How API keys, audio, and personal data are handled |
 | [FAQ](docs/faq.md) | 20+ answers |
 | [Changelog](docs/changelog.md) | v1.0 → v2.8 |

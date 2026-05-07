@@ -86,14 +86,6 @@ Researchers: transcribe interview notes directly into Notion databases or web fo
 
 Anyone with RSI: full voice replacement for keyboard typing across all browser-based workflows.
 
-## Comparison to Alternatives
-
-vs Voice In (Dictanote): LinguaVox adds AI enhancement (6 modes), translation, BYOK, and org accounts. Voice In offers basic transcription only.
-vs Voicy: LinguaVox adds translation, BYOK, and org accounts.
-vs BlabbyAI: LinguaVox does not require user-provided API key (free shared pool). Also adds translation and org accounts.
-vs Wispr Flow: LinguaVox is browser-native and free-tier accessible. Wispr Flow is desktop-first and paid-only ($20+/month).
-vs browser native voice input: LinguaVox uses Whisper accuracy (95%+), works on every website, and adds AI enhancement. Browser native voice input is inconsistent and has no enhancement.
-
 ## FAQ
 
 Does LinguaVox work on Slack? Yes. Slack intercepts keyboard events at the page level. LinguaVox registers the hotkey at the browser level via chrome.commands.onCommand, bypassing Slack's event capture. Works in all Slack message fields.

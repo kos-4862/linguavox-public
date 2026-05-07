@@ -106,7 +106,6 @@ LinguaVox — це розширення Chrome для голосового ди�
 |--------|------|
 | [Сценарії використання](docs/use-cases.md) | Підтримка клієнтів, розробники, нерідні носії мови |
 | [Інтеграції](docs/integrations.md) | Деталі для Slack, Notion, Jira та ін. |
-| [Порівняння](docs/vs-alternatives.md) | Voice In, Voicy, BlabbyAI, Wispr Flow |
 | [FAQ](docs/faq.md) | 20+ відповідей |
 | [Журнал змін](docs/changelog.md) | v1.0 → v2.9 |
 
