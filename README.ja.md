@@ -15,9 +15,9 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/ライセンス-MIT-blue.svg" alt="ライセンス" /></a>
-  <a href="https://linguavox-landing.pages.dev"><img src="https://img.shields.io/badge/ウェブサイト-linguavox-brightgreen" alt="ウェブサイト" /></a>
-  <a href="https://chromewebstore.google.com/detail/linguavox/TODO"><img src="https://img.shields.io/badge/Chrome%20ウェブストア-無料インストール-blue?logo=googlechrome" alt="Chrome ウェブストア" /></a>
-  <a href="https://linguavox-landing.pages.dev/login"><img src="https://img.shields.io/badge/ダッシュボード-開く-orange" alt="ダッシュボード" /></a>
+  <a href="https://linguavox.uk"><img src="https://img.shields.io/badge/ウェブサイト-linguavox-brightgreen" alt="ウェブサイト" /></a>
+  <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20ウェブストア-無料インストール-blue?logo=googlechrome" alt="Chrome ウェブストア" /></a>
+  <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/ダッシュボード-開く-orange" alt="ダッシュボード" /></a>
   <img src="https://img.shields.io/badge/バージョン-2.8-green" alt="バージョン" />
 </p>
 
@@ -101,10 +101,10 @@ LinguaVoxは、AI搭載の音声入力・翻訳Chrome拡張機能です。Ctrl+S
 
 | | |
 |--|--|
-| 🌐 ウェブサイト | https://linguavox-landing.pages.dev |
-| 📊 ダッシュボード | https://linguavox-landing.pages.dev/login |
-| 🔒 プライバシーポリシー | https://linguavox-landing.pages.dev/privacy/ |
-| 💬 サポート | https://linguavox-landing.pages.dev/support/ |
+| 🌐 ウェブサイト | https://linguavox.uk |
+| 📊 ダッシュボード | https://linguavox.uk/login |
+| 🔒 プライバシーポリシー | https://linguavox.uk/privacy/ |
+| 💬 サポート | https://linguavox.uk/support/ |
 
 ## ライセンス
 

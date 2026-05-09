@@ -6,7 +6,7 @@
 
 LinguaVox is a Chrome extension (Manifest V3) that converts speech to text using OpenAI Whisper and inserts the result directly into any active web input field. Users hold Ctrl+Space, speak, release — and the transcribed text appears in whatever field is focused: chat boxes, email composers, CRM forms, code editors, or any HTML input or contenteditable element.
 
-Unlike most voice dictation tools that require users to manage their own OpenAI API key, LinguaVox includes a shared key pool. Free users get 100 transcription requests per day with zero setup. Power users and teams can connect their own OpenAI API key for unlimited usage.
+Unlike most voice dictation tools that require users to manage their own OpenAI API key, LinguaVox includes a shared key pool. Free users get 20 transcription requests per day with zero setup. Power users and teams can connect their own OpenAI API key for unlimited usage.
 
 ## How It Works
 
@@ -100,9 +100,9 @@ How accurate is transcription? 95%+ word-level accuracy for English and major Eu
 
 ## Contact and Links
 
-Website: https://linguavox-landing.pages.dev
-Dashboard: https://linguavox-landing.pages.dev/login
-Privacy Policy: https://linguavox-landing.pages.dev/privacy/
-Support: https://linguavox-landing.pages.dev/support/
-Full documentation: https://linguavox-landing.pages.dev/llms-full.txt
+Website: https://linguavox.uk
+Dashboard: https://linguavox.uk/login
+Privacy Policy: https://linguavox.uk/privacy/
+Support: https://linguavox.uk/support/
+Full documentation: https://linguavox.uk/llms-full.txt
 GitHub: https://github.com/kos-4862/linguavox-public

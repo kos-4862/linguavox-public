@@ -2,12 +2,12 @@
 
 ## v2.8 — Dashboard + Bring Your Own Key + Org Management
 
-- **Web Dashboard** at `linguavox-landing.pages.dev/dashboard/`
+- **Web Dashboard** at `linguavox.uk/dashboard/`
 - **Bring Your Own Key** — connect personal OpenAI API key for unlimited usage
 - **Organization accounts** — create a team, share API key pool, view member usage analytics
 - **Org management** — invite/remove members, owner-level access control
 - **Usage analytics** — today's request count + 7-day chart in dashboard overview
-- Rate limit increased to 100 requests/day (from 20)
+- Rate limit: 20 requests/day on shared API key pool (unlimited with BYOK)
 
 ## v2.8 — Landing Page + Privacy Policy
 

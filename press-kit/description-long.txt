@@ -17,5 +17,5 @@ Key facts:
 - Works on Slack, Gmail, Notion, Jira, Asana, Salesforce, any website
 - Privacy-first: zero audio storage, zero personal voice data retained
 
-Website: https://linguavox-landing.pages.dev
-Chrome Web Store: https://chromewebstore.google.com/detail/linguavox/TODO
+Website: https://linguavox.uk
+Chrome Web Store: https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea

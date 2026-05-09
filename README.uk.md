@@ -15,9 +15,9 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Ліцензія" /></a>
-  <a href="https://linguavox-landing.pages.dev"><img src="https://img.shields.io/badge/сайт-linguavox-brightgreen" alt="Сайт" /></a>
-  <a href="https://chromewebstore.google.com/detail/linguavox/TODO"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Встановити-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
-  <a href="https://linguavox-landing.pages.dev/login"><img src="https://img.shields.io/badge/дашборд-відкрити-orange" alt="Дашборд" /></a>
+  <a href="https://linguavox.uk"><img src="https://img.shields.io/badge/сайт-linguavox-brightgreen" alt="Сайт" /></a>
+  <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Встановити-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
+  <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/дашборд-відкрити-orange" alt="Дашборд" /></a>
   <img src="https://img.shields.io/badge/версія-2.8-green" alt="Версія" />
 </p>
 
@@ -111,7 +111,7 @@ LinguaVox — це розширення Chrome для голосового ди�
 
 ## Встановлення
 
-1. [Chrome Web Store →](https://chromewebstore.google.com/detail/linguavox/TODO) — натисни "Додати до Chrome"
+1. [Chrome Web Store →](https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea) — натисни "Додати до Chrome"
 2. Натисни іконку LinguaVox → "Увійти через Google"
 3. Натисни Ctrl+Space будь-де і починай говорити
 
@@ -119,10 +119,10 @@ LinguaVox — це розширення Chrome для голосового ди�
 
 | | |
 |--|--|
-| 🌐 Сайт | https://linguavox-landing.pages.dev |
-| 📊 Дашборд | https://linguavox-landing.pages.dev/login |
-| 🔒 Політика конфіденційності | https://linguavox-landing.pages.dev/privacy/ |
-| 💬 Підтримка | https://linguavox-landing.pages.dev/support/ |
+| 🌐 Сайт | https://linguavox.uk |
+| 📊 Дашборд | https://linguavox.uk/login |
+| 🔒 Політика конфіденційності | https://linguavox.uk/privacy/ |
+| 💬 Підтримка | https://linguavox.uk/support/ |
 
 ## Ліцензія
 

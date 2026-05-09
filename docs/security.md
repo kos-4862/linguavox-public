@@ -22,7 +22,7 @@ Only the Cloudflare Worker — running on Cloudflare's infrastructure — reads 
 
 ### What if I want to remove it?
 
-Go to [Dashboard → API Key](https://linguavox-landing.pages.dev/dashboard/apikey) → click "Remove key". The key is deleted from Cloudflare KV immediately.
+Go to [Dashboard → API Key](https://linguavox.uk/dashboard/apikey) → click "Remove key". The key is deleted from Cloudflare KV immediately.
 
 ---
 
@@ -137,6 +137,6 @@ The broad host permission (`http://*/*, https://*/*`) is necessary because Lingu
 
 ## Reporting Security Issues
 
-Found a vulnerability? Please email: **security@linguavox-landing.pages.dev**
+Found a vulnerability? Please email: **security@linguavox.uk**
 
 Do not create a public GitHub issue for security vulnerabilities.

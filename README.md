@@ -15,10 +15,10 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" /></a>
-  <a href="https://linguavox-landing.pages.dev"><img src="https://img.shields.io/badge/website-linguavox-brightgreen" alt="Website" /></a>
-  <a href="https://chromewebstore.google.com/detail/linguavox/TODO"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Free-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
-  <a href="https://linguavox-landing.pages.dev/login"><img src="https://img.shields.io/badge/dashboard-open-orange" alt="Dashboard" /></a>
-  <a href="https://linguavox-landing.pages.dev/llms.txt"><img src="https://img.shields.io/badge/llms.txt-AI%20docs-purple" alt="llms.txt" /></a>
+  <a href="https://linguavox.uk"><img src="https://img.shields.io/badge/website-linguavox-brightgreen" alt="Website" /></a>
+  <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Free-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
+  <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/dashboard-open-orange" alt="Dashboard" /></a>
+  <a href="https://linguavox.uk/llms.txt"><img src="https://img.shields.io/badge/llms.txt-AI%20docs-purple" alt="llms.txt" /></a>
   <img src="https://img.shields.io/badge/version-2.8-green" alt="Version" />
 </p>
 
@@ -127,21 +127,21 @@ No. Audio is processed in real-time by Whisper and discarded immediately. Zero v
 
 ## Installation
 
-1. [Chrome Web Store →](https://chromewebstore.google.com/detail/linguavox/TODO) — click "Add to Chrome"
+1. [Chrome Web Store →](https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea) — click "Add to Chrome"
 2. Click the LinguaVox icon → "Sign in with Google"
 3. Press Ctrl+Space anywhere and start speaking
 
-**For Bring Your Own Key:** [Dashboard → API Key](https://linguavox-landing.pages.dev/dashboard/apikey)
+**For Bring Your Own Key:** [Dashboard → API Key](https://linguavox.uk/dashboard/apikey)
 
 ## Links
 
 | | |
 |--|--|
-| 🌐 Website | https://linguavox-landing.pages.dev |
-| 📊 Dashboard | https://linguavox-landing.pages.dev/login |
-| 🔒 Privacy Policy | https://linguavox-landing.pages.dev/privacy/ |
-| 🤖 AI docs (llms.txt) | https://linguavox-landing.pages.dev/llms.txt |
-| 💬 Support | https://linguavox-landing.pages.dev/support/ |
+| 🌐 Website | https://linguavox.uk |
+| 📊 Dashboard | https://linguavox.uk/login |
+| 🔒 Privacy Policy | https://linguavox.uk/privacy/ |
+| 🤖 AI docs (llms.txt) | https://linguavox.uk/llms.txt |
+| 💬 Support | https://linguavox.uk/support/ |
 
 ## License
 

@@ -18,7 +18,7 @@ jobs:
           args: >
             --verbose
             --no-progress
-            --exclude 'chromewebstore.google.com/detail/linguavox/TODO'
+            --exclude 'chromewebstore.google.com'
             --exclude 'shields.io'
             --exclude 'openai.com'
             '**/*.md'
