@@ -141,6 +141,10 @@ No. Audio is processed in real-time by Whisper and discarded immediately. Zero v
 |--|--|
 | 🌐 Website | https://linguavox.uk |
 | 📊 Dashboard | https://linguavox.uk/login |
+| 🎤 Voice Translation | https://linguavox.uk/voice-translation |
+| ✨ AI Voice Enhancement | https://linguavox.uk/ai-voice-enhancement |
+| 🌍 For Non-Native Speakers | https://linguavox.uk/for-non-native-speakers |
+| 👤 About the Author | https://linguavox.uk/about |
 | 🔒 Privacy Policy | https://linguavox.uk/privacy/ |
 | 🤖 AI docs (llms.txt) | https://linguavox.uk/llms.txt |
 | 💬 Support | https://linguavox.uk/support/ |
