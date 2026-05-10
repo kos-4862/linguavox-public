@@ -6,11 +6,11 @@
   <img src="https://raw.githubusercontent.com/kos-4862/linguavox-public/main/images/banner.png" width="800" alt="LinguaVox — Extensión Chrome de dictado por voz con IA" />
 </p>
 
-<h3 align="center">LinguaVox — Extensión Chrome de dictado por voz con IA</h3>
+<h3 align="center">LinguaVox — Habla tu idioma. Escribe en 21+ idiomas.</h3>
 
 <p align="center">
   Mantén presionado el atajo · habla · suelta · el texto aparece en cualquier campo en 3 segundos<br>
-  OpenAI Whisper · 21+ idiomas · Sin clave API · Funciona en Slack, Gmail, Notion, Jira
+  OpenAI Whisper · 21+ idiomas de salida · 6 modos IA · Sin clave API · Slack, Gmail, Notion, Jira
 </p>
 
 <p align="center">
@@ -106,6 +106,10 @@ No. El audio es procesado por Whisper en tiempo real y descartado inmediatamente
 |--|--|
 | 🌐 Sitio web | https://linguavox.uk |
 | 📊 Panel | https://linguavox.uk/login |
+| 🎤 Traducción de voz | https://linguavox.uk/voice-translation |
+| ✨ Mejora de voz con IA | https://linguavox.uk/ai-voice-enhancement |
+| 🌍 Hablantes no nativos | https://linguavox.uk/for-non-native-speakers |
+| 👤 Sobre el autor | https://linguavox.uk/about |
 | 🔒 Política de privacidad | https://linguavox.uk/privacy/ |
 | 💬 Soporte | https://linguavox.uk/support/ |
 

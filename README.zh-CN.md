@@ -6,11 +6,11 @@
   <img src="https://raw.githubusercontent.com/kos-4862/linguavox-public/main/images/banner.png" width="800" alt="LinguaVox — AI 语音听写 Chrome 扩展" />
 </p>
 
-<h3 align="center">LinguaVox — AI 语音听写 Chrome 扩展</h3>
+<h3 align="center">LinguaVox — 说你的语言，输出21种以上文字</h3>
 
 <p align="center">
   按住快捷键 · 说话 · 松开 · 文字在3秒内出现在任意网页输入框<br>
-  OpenAI Whisper · 支持21种以上语言 · 无需API密钥 · 支持Slack、Gmail、Notion、Jira
+  OpenAI Whisper · 21种以上输出语言 · 6种AI增强模式 · 无需API密钥 · Slack、Gmail、Notion、Jira
 </p>
 
 <p align="center">
@@ -106,6 +106,10 @@ LinguaVox 是一款基于 AI 的 Chrome 语音听写和翻译扩展。按住 Ctr
 |--|--|
 | 🌐 网站 | https://linguavox.uk |
 | 📊 控制台 | https://linguavox.uk/login |
+| 🎤 语音翻译 | https://linguavox.uk/voice-translation |
+| ✨ AI语音增强 | https://linguavox.uk/ai-voice-enhancement |
+| 🌍 非母语人士 | https://linguavox.uk/for-non-native-speakers |
+| 👤 关于作者 | https://linguavox.uk/about |
 | 🔒 隐私政策 | https://linguavox.uk/privacy/ |
 | 💬 支持 | https://linguavox.uk/support/ |
 

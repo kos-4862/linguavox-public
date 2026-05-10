@@ -6,11 +6,11 @@
   <img src="https://raw.githubusercontent.com/kos-4862/linguavox-public/main/images/banner.png" width="800" alt="LinguaVox — KI-Sprachdiktat Chrome-Erweiterung" />
 </p>
 
-<h3 align="center">LinguaVox — KI-Sprachdiktat Chrome-Erweiterung</h3>
+<h3 align="center">LinguaVox — Sprich deine Sprache. Schreib in 21+ Sprachen.</h3>
 
 <p align="center">
   Tastenkombination halten · sprechen · loslassen · Text erscheint in 3 Sekunden in jedem Webfeld<br>
-  OpenAI Whisper · 21+ Sprachen · Kein API-Schlüssel · Slack, Gmail, Notion, Jira
+  OpenAI Whisper · 21+ Ausgabesprachen · 6 KI-Modi · Kein API-Schlüssel · Slack, Gmail, Notion, Jira
 </p>
 
 <p align="center">
@@ -103,6 +103,10 @@ Nein. Audio wird von Whisper in Echtzeit verarbeitet und sofort verworfen. Keine
 |--|--|
 | 🌐 Website | https://linguavox.uk |
 | 📊 Dashboard | https://linguavox.uk/login |
+| 🎤 Sprachübersetzung | https://linguavox.uk/voice-translation |
+| ✨ KI-Sprachverbesserung | https://linguavox.uk/ai-voice-enhancement |
+| 🌍 Nicht-Muttersprachler | https://linguavox.uk/for-non-native-speakers |
+| 👤 Über den Autor | https://linguavox.uk/about |
 | 🔒 Datenschutzerklärung | https://linguavox.uk/privacy/ |
 | 💬 Support | https://linguavox.uk/support/ |
 

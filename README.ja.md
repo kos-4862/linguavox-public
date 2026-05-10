@@ -6,11 +6,11 @@
   <img src="https://raw.githubusercontent.com/kos-4862/linguavox-public/main/images/banner.png" width="800" alt="LinguaVox — AI音声入力 Chrome拡張機能" />
 </p>
 
-<h3 align="center">LinguaVox — AI音声入力 Chrome拡張機能</h3>
+<h3 align="center">LinguaVox — あなたの言語で話す。21以上の言語で書く。</h3>
 
 <p align="center">
   ショートカットキーを押しながら話す · 離す · 3秒以内にどのWebフィールドにもテキストが入力される<br>
-  OpenAI Whisper · 21以上の言語対応 · APIキー不要 · Slack、Gmail、Notion、Jira対応
+  OpenAI Whisper · 21以上の出力言語 · 6つのAIモード · APIキー不要 · Slack、Gmail、Notion、Jira
 </p>
 
 <p align="center">
@@ -103,6 +103,10 @@ LinguaVoxは、AI搭載の音声入力・翻訳Chrome拡張機能です。Ctrl+S
 |--|--|
 | 🌐 ウェブサイト | https://linguavox.uk |
 | 📊 ダッシュボード | https://linguavox.uk/login |
+| 🎤 音声翻訳 | https://linguavox.uk/voice-translation |
+| ✨ AI音声強化 | https://linguavox.uk/ai-voice-enhancement |
+| 🌍 非ネイティブスピーカー | https://linguavox.uk/for-non-native-speakers |
+| 👤 著者について | https://linguavox.uk/about |
 | 🔒 プライバシーポリシー | https://linguavox.uk/privacy/ |
 | 💬 サポート | https://linguavox.uk/support/ |
 
