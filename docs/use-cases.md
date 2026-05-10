@@ -1,6 +1,19 @@
 # LinguaVox — Use Cases
 
-Real-world scenarios where LinguaVox replaces or accelerates typing.
+Real-world scenarios where LinguaVox eliminates the language tax and accelerates typing.
+
+---
+
+## Non-Native Speakers & Multilingual Professionals
+
+**Problem:** Every message in a second language carries a hidden tax — a pause before sending. "Is this grammatically correct? Does this sound natural?" Multiply by hundreds of messages a day across email, Slack, Jira, CRM.
+
+**With LinguaVox:**
+- Speak your native language → output arrives in any of 21 target languages, polished and professional
+- Or speak English naturally and let "Grammar Fix" or "Smart Polish" clean up errors
+- Works in Gmail, Outlook Web, Slack, and any email composer
+
+**Example:** Speak Ukrainian → output: professional English in Gmail. Speak Spanish → output: German in Slack.
 
 ---
 
@@ -14,19 +27,6 @@ Real-world scenarios where LinguaVox replaces or accelerates typing.
 - Handle 3x more tickets per hour without additional typing strain
 
 **Platforms:** Salesforce, Zendesk, Freshdesk, Intercom, Jira Service Management
-
----
-
-## Non-Native English Speakers
-
-**Problem:** Composing professional emails or messages in English takes much longer for non-native speakers. Grammar mistakes reduce credibility.
-
-**With LinguaVox:**
-- Speak naturally in your native language → select target language → get polished English output
-- Or speak English naturally and let "Grammar Fix" or "Smart Polish" clean up errors
-- Works in Gmail, Outlook Web, Slack, and any email composer
-
-**Example:** Speak Ukrainian → LinguaVox translates to English → inserts polished English text into Gmail compose window.
 
 ---
 

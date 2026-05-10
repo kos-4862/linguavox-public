@@ -88,9 +88,9 @@ For standard `<input>`, `<textarea>`, and `contenteditable` fields: yes, it work
 
 Set Mode to "Translate" in the extension popup. Select your speech language and the target language. Speak → LinguaVox transcribes with Whisper, then sends the text to GPT-4o-mini for translation into the target language.
 
-### Can I speak in one language and get output in another?
+### Can I speak my native language and get output in a different language?
 
-Yes. For example: set speech language to Ukrainian, target language to English, mode to Translate. Speak Ukrainian — get English text.
+Yes — this is the primary use case. Set Mode to Translate, select your speech language and target language. Speak your native language naturally — LinguaVox transcribes with Whisper, translates via GPT-4o-mini, optionally polishes with AI enhancement, and inserts the final text into the active field. Example: speak Ukrainian → get polished English in Gmail within 3 seconds.
 
 ---
 
