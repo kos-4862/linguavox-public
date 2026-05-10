@@ -6,11 +6,11 @@
   <img src="https://raw.githubusercontent.com/kos-4862/linguavox-public/main/images/banner.png" width="800" alt="LinguaVox — AI Voice Dictation Chrome Extension" />
 </p>
 
-<h3 align="center">LinguaVox — AI Voice Dictation Chrome Extension</h3>
+<h3 align="center">LinguaVox — Speak your language. Write in any of 21+.</h3>
 
 <p align="center">
-  Hold a hotkey · speak · release · text appears in any web field within 3 seconds<br>
-  OpenAI Whisper · 21+ languages · No API key required · Slack, Gmail, Notion, Jira
+  Hold a hotkey · speak your language · release · translated & polished text appears in any web field within 3 seconds<br>
+  OpenAI Whisper · 21+ output languages · 6 AI enhancement modes · No API key required · Slack, Gmail, Notion, Jira
 </p>
 
 <p align="center">
@@ -26,7 +26,9 @@
 
 ## What is LinguaVox?
 
-LinguaVox is a Chrome browser extension for AI-powered voice transcription and translation. Users hold a keyboard shortcut (Ctrl+Space), speak, release — and the transcribed text appears instantly in any active text field: chat boxes, email editors, search fields, CRM forms, and code editors. The extension uses OpenAI Whisper for 95%+ accuracy transcription and GPT-4o-mini for optional AI enhancement (grammar correction, style rewriting, translation). Unlike most voice dictation tools that require users to provide their own OpenAI API key, LinguaVox includes a shared key pool — free users get 20 requests per day with zero setup. Power users and teams can bring their own key for unlimited usage.
+LinguaVox is a Chrome extension that removes the language tax from your daily work. Speak naturally in your native language — LinguaVox transcribes via OpenAI Whisper, translates to any of 21+ target languages, and inserts polished text directly into whatever web field you're typing in. No copy-paste, no app switching, no grammar anxiety.
+
+Works in Gmail, Slack, Notion, Jira, Asana, Salesforce — any website with a text field. Free tier includes 20 requests/day with zero setup. Power users and teams can bring their own OpenAI key for unlimited usage.
 
 ## How It Works
 
