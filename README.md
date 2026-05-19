@@ -9,8 +9,8 @@
 <h3 align="center">LinguaVox — Speak your language. Write in any of 21+.</h3>
 
 <p align="center">
-  Hold a hotkey · speak your language · release · translated & polished text appears in any web field within 3 seconds<br>
-  OpenAI Whisper · 21+ output languages · 6 AI enhancement modes · No API key required · Slack, Gmail, Notion, Jira
+  Hold a hotkey · speak · release · text appears in any web field · Real-time meeting subtitles in any language<br>
+  OpenAI Whisper · Deepgram · 21+ languages · 6 AI enhancement modes · Meeting Mode · No API key required
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <a href="https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Free-blue?logo=googlechrome" alt="Chrome Web Store" /></a>
   <a href="https://linguavox.uk/login"><img src="https://img.shields.io/badge/dashboard-open-orange" alt="Dashboard" /></a>
   <a href="https://linguavox.uk/llms.txt"><img src="https://img.shields.io/badge/llms.txt-AI%20docs-purple" alt="llms.txt" /></a>
-  <img src="https://img.shields.io/badge/version-2.8-green" alt="Version" />
+  <a href="https://github.com/kos-4862/linguavox-public/releases/latest"><img src="https://img.shields.io/badge/version-3.0.0-green" alt="Version" /></a>
 </p>
 
 ---
@@ -29,6 +29,8 @@
 LinguaVox is a Chrome extension that removes the language tax from your daily work. Speak naturally in your native language — LinguaVox transcribes via OpenAI Whisper, translates to any of 21+ target languages, and inserts polished text directly into whatever web field you're typing in. No copy-paste, no app switching, no grammar anxiety.
 
 Works in Gmail, Slack, Notion, Jira, Asana, Salesforce — any website with a text field. Free tier includes 20 requests/day with zero setup. Power users and teams can bring their own OpenAI key for unlimited usage.
+
+**v3.0 — Meeting Mode:** real-time translated subtitles for Google Meet, Zoom, Teams, and any other browser-based call. Tab audio captured via Chrome API → streamed to Deepgram → subtitles appear as a floating overlay. Requires explicit consent on first use.
 
 ## How It Works
 
@@ -80,7 +82,8 @@ All OpenAI API calls go through the Worker. API keys never leave the server.
 - **Organization accounts** — shared key pool, member management, usage analytics
 - **21+ languages** — transcription + translation in one step
 - **6 AI enhancement modes** — grammar fix, business style, academic, casual, creative, smart polish
-- **Privacy-first** — audio never stored, processed in real-time and discarded
+- **Meeting Mode** — real-time subtitles for any tab audio (Google Meet, Zoom, Teams…) via Deepgram
+- **Privacy-first** — voice audio never stored; meeting audio uses 90s ephemeral tokens, mip_opt_out=true
 - **Under 3 seconds** — end-to-end from speech to inserted text
 - **95%+ accuracy** — OpenAI Whisper large-v2 equivalent
 
@@ -125,13 +128,19 @@ No. Audio is processed in real-time by Whisper and discarded immediately. Zero v
 | [Integrations](docs/integrations.md) | Platform-specific notes for Slack, Notion, Jira, etc. |
 | [Security & Data Protection](docs/security.md) | How API keys, audio, and personal data are handled |
 | [FAQ](docs/faq.md) | 20+ answers |
-| [Changelog](docs/changelog.md) | v1.0 → v2.8 |
+| [Changelog](docs/changelog.md) | v1.0 → v3.0 |
 
 ## Installation
 
+**Option A — Chrome Web Store (recommended):**
 1. [Chrome Web Store →](https://chromewebstore.google.com/detail/linguavox/dpdejiobdhljljfnkmipjblbpcfhbdea) — click "Add to Chrome"
 2. Click the LinguaVox icon → "Sign in with Google"
 3. Press Ctrl+Space anywhere and start speaking
+
+**Option B — Manual install (ZIP):**
+1. Download `linguavox-3.0.0.zip` from [Releases →](https://github.com/kos-4862/linguavox-public/releases/latest)
+2. Unzip to a folder
+3. Chrome → `chrome://extensions` → enable "Developer mode" → "Load unpacked" → select the folder
 
 **For Bring Your Own Key:** [Dashboard → API Key](https://linguavox.uk/dashboard/apikey)
 
