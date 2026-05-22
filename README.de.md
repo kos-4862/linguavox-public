@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a>
+  <a href="README.md">English</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a> · <a href="README.ja.md">日本語</a> · <a href="README.fr.md">Français</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a> · <a href="README.pt.md">Português</a> · <a href="README.it.md">Italiano</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.sv.md">Svenska</a> · <a href="README.ro.md">Română</a> · <a href="README.el.md">Ελληνικά</a> · <a href="README.tl.md">Filipino</a> · <a href="README.ur.md">اردو</a> · <a href="README.pa.md">ਪੰਜਾਬੀ</a>
 </p>
 
 <p align="center">
@@ -109,6 +109,24 @@ Nein. Audio wird von Whisper in Echtzeit verarbeitet und sofort verworfen. Keine
 | 👤 Über den Autor | https://linguavox.uk/about |
 | 🔒 Datenschutzerklärung | https://linguavox.uk/privacy/ |
 | 💬 Support | https://linguavox.uk/support/ |
+
+## Community & Support
+
+| | |
+|--|--|
+| 📺 YouTube | [Demo-Videos und Tutorials](https://www.youtube.com/channel/UCHRcSLs96N5M_mC4I4XXTMg) |
+| 💬 WhatsApp | [LinguaVox Community-Kanal](https://whatsapp.com/channel/0029VbCx0blElaglJ5zvFl3d) |
+| 🤝 Slack | [Trete bei linguavox.slack.com](https://linguavox.slack.com) |
+
+## Demo-Videos
+
+| Anwendungsfall | Ansehen |
+|----------------|---------|
+| Gmail — E-Mails per Sprache verfassen | [▶ Ansehen](https://youtube.com/watch?v=FAuBIfE6VYU) |
+| WhatsApp Web — Sprachnachrichten | [▶ Ansehen](https://youtube.com/watch?v=5UHmNtDlvyY) |
+| Telegram Web — Sprachdiktat | [▶ Ansehen](https://youtube.com/watch?v=n9u-BR0z4RU) |
+| LinkedIn — Beiträge per Sprache schreiben | [▶ Ansehen](https://youtube.com/watch?v=xdbDBEPWKW8) |
+| Meeting-Modus — Echtzeit-Untertitel | [▶ Ansehen](https://youtube.com/watch?v=agcMJVPKlxE) |
 
 ## Lizenz
 
